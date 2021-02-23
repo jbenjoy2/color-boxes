@@ -1,0 +1,13 @@
+.Box {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-end;
+	padding: 10px;
+}
+
+.Box-btn {
+	height: 2em;
+	color: red;
+	margin: 0 5px;
+}

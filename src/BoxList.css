@@ -1,0 +1,10 @@
+.BoxList {
+	display: flex;
+	justify-content: center;
+	padding: 25px;
+}
+
+.BoxList-form {
+	text-align: center;
+	margin-top: 10px;
+}
